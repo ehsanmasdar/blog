@@ -14,7 +14,7 @@ url:		/blog
 
 author:
   name:		'Ehsan Asdar'
-  url:		https://google.com/+EhsanAsdar
+  url:		/
 
 paginate:	5
 # Custom vars
@@ -26,9 +26,6 @@ social:
     url:	https://github.com/oksisane
     desc:	Fork me on github
 
-  - icon:	googleplus-alt
-    url:	https://google.com/+EhsanAsdar
-    desc:	Add me on google+
 
   - icon:	feed
     url:	/blog/atom.xml
