@@ -7,14 +7,14 @@ baseurl: /blog
 permalink:	/:title
 
 # Setup
-title:		Thinny
+title:		 Ehsan Asdar
 tagline:	'blog'
 description:	'My personal blog.'
-url:		oksisane.github.io/blog
+url:		/blog
 
 author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+  name:		'Ehsan Asdar'
+  url:		https://google.com/+EhsanAsdar
 
 paginate:	5
 # Custom vars
@@ -22,28 +22,24 @@ icon:		/blog/assets/images/icon.png
 cover:		/blog/assets/images/cover.jpg
 
 social:
-  - icon:	twitter
-    url:	https://twitter.com/iancamporez
-    desc:	Follow me on twitter
-
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/oksisane
     desc:	Fork me on github
 
   - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
+    url:	https://google.com/+EhsanAsdar
     desc:	Add me on google+
 
   - icon:	feed
-    url:	http://camporez.com/atom.xml
+    url:	/blog/atom.xml
     desc:	Subscribe to my feed
     
 menu:
   - title:	Home
     url:	/
     
-  - title:	About
-    url:	/about
+  - title:	Blog
+    url:	/blog
     
 copyright:
   author:	Camporez
