@@ -16,7 +16,7 @@ author:
   url:		https://google.com/+IanCamporezBrunelli
 
 paginate:	5
-
+baseurl: /blog
 # Custom vars
 icon:		assets/images/icon.png
 cover:		assets/images/cover.jpg
