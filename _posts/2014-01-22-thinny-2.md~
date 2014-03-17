@@ -31,11 +31,11 @@ You can use various HTML tags:
 <div class="message">This is a <strong>warning</strong> message. Now, you can keep falling in love with this theme...</div>
 
 You can add `code elements` with highlight support:
-<div class="highlight"><pre><code class="ruby"><span class="p">{</span><span class="o">%</span> <span class="kp">include</span> <span class="n">image</span><span class="o">.</span><span class="n">html</span> <span class="n">url</span><span class="o">=</span><span class="s2">&quot;/blog/media/2014-01-22-thinny-2/bianca.jpg&quot;</span> <span class="n">width</span><span class="o">=</span><span class="s2">&quot;100&#37;&quot;</span> <span class="n">description</span><span class="o">=</span><span class="s2">&quot;Image captions are supported out of the box. Brilliant!&quot;</span> <span class="o">%</span><span class="p">}</span></code></pre></div>
+<div class="highlight"><pre><code class="ruby"><span class="p">{</span><span class="o">%</span> <span class="kp">include</span> <span class="n">image</span><span class="o">.</span><span class="n">html</span> <span class="n">url</span><span class="o">=</span><span class="s2">&quot;/media/2014-01-22-thinny-2/bianca.jpg&quot;</span> <span class="n">width</span><span class="o">=</span><span class="s2">&quot;100&#37;&quot;</span> <span class="n">description</span><span class="o">=</span><span class="s2">&quot;Image captions are supported out of the box. Brilliant!&quot;</span> <span class="o">%</span><span class="p">}</span></code></pre></div>
 
 Will output this:
 
-{% include image.html url="/blog/media/2014-01-22-thinny-2/bianca.jpg" width="100%" description="Image captions are supported out of the box. Brilliant!" %}
+{% include image.html url="/media/2014-01-22-thinny-2/bianca.jpg" width="100%" description="Image captions are supported out of the box. Brilliant!" %}
 
 ### Table
 

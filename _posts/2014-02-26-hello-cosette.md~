@@ -2,7 +2,7 @@
 layout: post
 title: "Hello, Cosette"
 quote: Thinny reaches a new version, with mobile support and some other cool features.
-image: /blog/media/2014-02-26-hello-cosette/cover.jpg
+image: {{ site.baseurl }}/media/2014-02-26-hello-cosette/cover.jpg
 video: false
 ---
 

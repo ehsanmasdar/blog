@@ -33,7 +33,7 @@ article: true
 	</div>
 	<div id="post-info">
 		<h3>Featured post</h3>
-		<a href="{{ site.baseurl }}{{ post.url }}">
+		<a href="{{ site.url }}{{ post.url }}">
 			<h1>{{ post.title }}</h1>
 			{% if post.quote %}
 				<h2>{{ post.quote }}</h2>

@@ -4,7 +4,7 @@ pygments:	true
 relative_permalinks: false
 baseurl: /blog
 # Permalinks
-permalink:	/:title
+permalink:	/blog/:title
 
 # Setup
 title:		Thinny
